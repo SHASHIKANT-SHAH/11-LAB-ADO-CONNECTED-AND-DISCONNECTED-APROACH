@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "coreADOConnectedArchitectureDAOProject", "coreADOConnectedArchitectureProject\coreADOConnectedArchitectureDAOProject.csproj", "{1F3E1D01-D502-4D19-8F98-7794B117C15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreADODisconnectedArchitectureProject", "coreADODisconnectedArchitectureProject\coreADODisconnectedArchitectureProject.csproj", "{7755979A-EC0F-4B6C-B342-0D877D125416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3E1D01-D502-4D19-8F98-7794B117C15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3E1D01-D502-4D19-8F98-7794B117C15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3E1D01-D502-4D19-8F98-7794B117C15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3E1D01-D502-4D19-8F98-7794B117C15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7755979A-EC0F-4B6C-B342-0D877D125416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7755979A-EC0F-4B6C-B342-0D877D125416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7755979A-EC0F-4B6C-B342-0D877D125416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7755979A-EC0F-4B6C-B342-0D877D125416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B087317A-A45C-42B6-A154-5D4C2DF7EE36}
+	EndGlobalSection
+EndGlobal
